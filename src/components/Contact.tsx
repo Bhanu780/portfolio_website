@@ -24,23 +24,6 @@ const Contact = () => {
             <p>B.Tech in Computer Science Engineering, DSCE Bengaluru</p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
-            <a
-              href="https://github.com/Bhanu780"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
-            </a>
-            <a
-              href="https://linkedin.com/in/bhanu-pratap-singh780"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Linkedin <MdArrowOutward />
-            </a>
           </div>
           <div className="contact-box">
             <h2>
